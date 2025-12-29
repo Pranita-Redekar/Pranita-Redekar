@@ -1,3 +1,4 @@
+![logo](https://github.com/Pranita-Redekar/Pranita-Redekar/blob/main/Data%20Analyst%20Bg%20image2.png)
 <h1 align="center">Hi 👋, I'm Pranita Dipak Redekar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Data Analysis" width="400" src="Data Analyst Image.png">
