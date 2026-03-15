@@ -1,15 +1,86 @@
 ![logo](https://github.com/Pranita-Redekar/Pranita-Redekar/blob/main/Data%20Analyst%20Bg%20image2.png)
-<h1 align="center">Hi 👋, I'm Pranita Dipak Redekar</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
-<img align="right" alt="Data Analysis" width="400" src="https://github.com/Pranita-Redekar/Pranita-Redekar/blob/main/Data%20Analyst%20Image.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranita-redekar&label=Profile%20views&color=0e75b6&style=flat" alt="pranita-redekar" /> </p>
+<h1 align="center">Hi 👋, I'm Pranita Redekar</h1>
+<h3 align="center">Aspiring Data Analyst | Data Analytics Student</h3>
 
-- 🌱 I’m currently learning **SQL,Power BI**
+<hr>
 
-- 👨‍💻 All of my projects are available at [https://linkedin.com/in/pranita-redekar](https://linkedin.com/in/pranita-redekar)
+<h2>👩‍💻 About Me</h2>
 
-- 📫 How to reach me **pranitaredekar1167@gmail.com**
+<p>
+I am a passionate Data Analytics student interested in turning raw data into meaningful insights.
+I enjoy analyzing datasets, building dashboards, and solving real-world problems using data.
+Currently, I am developing my skills in Excel, Power BI, SQL, and Python for Data Analytics.
+</p>
+
+<ul>
+<li>🎓 Final Year Student</li>
+<li>📊 Interested in Data Analysis and Visualization</li>
+<li>📈 Skilled in Excel, Power BI, SQL</li>
+<li>🐍 Learning Python for Data Analytics</li>
+<li>🚀 Building Data Analytics Projects</li>
+</ul>
+
+<hr>
+
+<h2>🛠 Skills</h2>
+
+<ul>
+<li>Microsoft Excel</li>
+<li>Power BI</li>
+<li>SQL</li>
+<li>Python (Basic)</li>
+<li>Data Visualization</li>
+<li>Data Cleaning</li>
+</ul>
+
+<hr>
+
+<h2>⚙️ Tools & Technologies</h2>
+
+<p>
+Excel | Power BI | MySQL | Python | GitHub
+</p>
+
+<hr>
+
+<h2>📂 My Projects</h2>
+
+<h3>📊 Excel Projects</h3>
+<ul>
+<li><a href="YOUR_EXCEL_PROJECT_LINK">Excel Sales Analysis Project</a></li>
+<li><a href="YOUR_EXCEL_PROJECT_LINK">Excel Dashboard Project</a></li>
+</ul>
+
+<h3>📈 Power BI Projects</h3>
+<ul>
+<li><a href="YOUR_POWERBI_PROJECT_LINK">Power BI Sales Dashboard</a></li>
+<li><a href="YOUR_POWERBI_PROJECT_LINK">Power BI Business Analysis Dashboard</a></li>
+</ul>
+
+<h3>🗄 SQL Projects</h3>
+<ul>
+<li><a href="YOUR_SQL_PROJECT_LINK">SQL Data Analysis Project</a></li>
+<li><a href="YOUR_SQL_PROJECT_LINK">SQL Business Query Project</a></li>
+</ul>
+
+<hr>
+
+<h2>📫 Contact Me</h2>
+
+<ul>
+<li>Email: your-email@example.com</li>
+<li>LinkedIn: <a href="YOUR_LINKEDIN_LINK">LinkedIn Profile</a></li>
+<li>GitHub: <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub Profile</a></li>
+</ul>
+
+<hr>
+
+<p align="center">
+⭐ If you like my projects, feel free to star them!
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
