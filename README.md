@@ -84,23 +84,17 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 <hr>
 
 <h2>📊 GitHub Stats</h2>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranita-redekar&" alt="pranita-redekar" /></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME"/>
-</p>
 
 <hr>
 
 <h2>📫 Contact Me</h2>
 
 <ul>
-<li>Email: your-email@example.com</li>
-<li>LinkedIn: <a href="YOUR_LINKEDIN_LINK">LinkedIn Profile</a></li>
-<li>GitHub: <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub Profile</a></li>
+<li>Email: pranitaredekar1167@gmail.com</li>
+<li>LinkedIn: <a href="linkedin.com/in/pranita-redekar">LinkedIn Profile</a></li>
+<li>GitHub: <a href="github.com/Pranita-Redekar">GitHub Profile</a></li>
 </ul>
 
 <hr>
@@ -109,15 +103,11 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 ⭐ If you like my projects, feel free to star them!
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pranita-redekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranita-redekar" height="30" width="40" /></a>
-
-</p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranita-redekar&" alt="pranita-redekar" /></p>
+
+
 
 
 
