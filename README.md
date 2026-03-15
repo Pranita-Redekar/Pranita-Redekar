@@ -71,8 +71,8 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 
 <h3>📈 Power BI Projects</h3>
 <ul>
-<li><a href="YOUR_POWERBI_PROJECT_LINK">Power BI Sales Dashboard</a></li>
-<li><a href="YOUR_POWERBI_PROJECT_LINK">Power BI Business Analysis Dashboard</a></li>
+<li><a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI">Food Delivery Dashboard</a></li>
+<li><a href="https://github.com/Pranita-Redekar/Sales-Performance-Dashboard-PowerBI">Sales Performance Dashboard</a></li>
 </ul>
 
 <h3>🗄 SQL Projects</h3>
