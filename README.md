@@ -38,8 +38,25 @@ Currently, I am developing my skills in Excel, Power BI, SQL, and Python for Dat
 
 <h2>⚙️ Tools & Technologies</h2>
 
-<p>
-Excel | Power BI | MySQL | Python | GitHub
+<p align="center">
+
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50">
+
+<img src="https://img.icons8.com/color/96/power-bi.png" width="50">
+
+<img src="https://img.icons8.com/fluency/96/database.png" width="50">
+
+<img src="https://img.icons8.com/color/96/python.png" width="50">
+
+<img src="https://img.icons8.com/color/96/mysql-logo.png" width="50">
+
+<img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" width="50">
+
+
+</p>
+
+<p align="center">
+Excel | Power BI | SQL | Python | MySQL | GitHub
 </p>
 
 <hr>
@@ -66,6 +83,18 @@ Excel | Power BI | MySQL | Python | GitHub
 
 <hr>
 
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME"/>
+</p>
+
+<hr>
+
 <h2>📫 Contact Me</h2>
 
 <ul>
@@ -79,8 +108,6 @@ Excel | Power BI | MySQL | Python | GitHub
 <p align="center">
 ⭐ If you like my projects, feel free to star them!
 </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
