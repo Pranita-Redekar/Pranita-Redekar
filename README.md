@@ -72,7 +72,7 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 <h3>📈 Power BI Projects</h3>
 <ul>
 <li><a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI">Food Delivery Dashboard</a></li>
-<li><a href="https://github.com/Pranita-Redekar/Swiggy-Instamart-Sales-Performance-Dashboard-Power-BI"></a>Swiggy Instamart Sales Performance Dashboard</li>
+<li><a href="https://github.com/Pranita-Redekar/Swiggy-Instamart-Sales-Performance-Dashboard-Power-BI">Swiggy Instamart Sales Performance Dashboard</a></li>
 <li><a href="https://github.com/Pranita-Redekar/Sales-Performance-Dashboard-PowerBI">Sales Performance Dashboard</a></li>
 </ul>
 
