@@ -92,7 +92,7 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 
 <ul>
 <li>Email: pranitaredekar1167@gmail.com</li>
-<li>LinkedIn: <a href="linkedin.com/in/pranita-redekar">LinkedIn Profile</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/pranita-redekar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn Profile</a></li>
 <li>GitHub: <a href="https://github.com/Pranita-Redekar">GitHub Profile</a></li>
 </ul>
 
