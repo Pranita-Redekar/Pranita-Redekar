@@ -1,7 +1,7 @@
 ![logo](https://github.com/Pranita-Redekar/Pranita-Redekar/blob/main/Data%20Analyst%20Bg%20image2.png)
 
 <h1 align="center">Hi 👋, I'm Pranita Redekar</h1>
-<h3 align="center">Aspiring Data Analyst | Data Analytics Student</h3>
+<h3 align="center">Aspiring Data Analyst </h3>
 
 <hr>
 
@@ -14,7 +14,6 @@ Currently, I am developing my skills in Excel, Power BI, SQL, and Python for Dat
 </p>
 
 <ul>
-<li>🎓 Final Year Student</li>
 <li>📊 Interested in Data Analysis and Visualization</li>
 <li>📈 Skilled in Excel, Power BI, SQL</li>
 <li>🐍 Learning Python for Data Analytics</li>
@@ -29,7 +28,7 @@ Currently, I am developing my skills in Excel, Power BI, SQL, and Python for Dat
 <li>Microsoft Excel</li>
 <li>Power BI</li>
 <li>SQL</li>
-<li>Python (Basic)</li>
+<li>Python</li>
 <li>Data Visualization</li>
 <li>Data Cleaning</li>
 </ul>
@@ -94,7 +93,7 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 <ul>
 <li>Email: pranitaredekar1167@gmail.com</li>
 <li>LinkedIn: <a href="linkedin.com/in/pranita-redekar">LinkedIn Profile</a></li>
-<li>GitHub: <a href="github.com/Pranita-Redekar">GitHub Profile</a></li>
+<li>GitHub: <a href="https://github.com/Pranita-Redekar">GitHub Profile</a></li>
 </ul>
 
 <hr>
