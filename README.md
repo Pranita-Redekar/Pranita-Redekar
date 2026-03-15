@@ -64,8 +64,9 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 
 <h3>📊 Excel Projects</h3>
 <ul>
-<li><a href="YOUR_EXCEL_PROJECT_LINK">Excel Sales Analysis Project</a></li>
-<li><a href="YOUR_EXCEL_PROJECT_LINK">Excel Dashboard Project</a></li>
+<li><a href="https://github.com/Pranita-Redekar/Swiggy-Sales-Excel">Swiggy Sales Dashboard</a></li>
+<li><a href="https://github.com/Pranita-Redekar/Sales-Dashboard-Excel"> Sales Performance Analysis Dashboard</a></li>
+<li><a href="https://github.com/Pranita-Redekar/Superstore-Sales-Excel ">Superstore Sales Dashboard</a></li>
 </ul>
 
 <h3>📈 Power BI Projects</h3>
