@@ -79,7 +79,7 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 
 <h3>🗄 Python Projects</h3>
 <ul>
-<li><a href="YOUR_SQL_PROJECT_LINK">Exploratory Data Analysis Project</a></li>
+<li><a href="https://github.com/Pranita-Redekar/Exploratory-Data-Analysis">Exploratory Data Analysis Project</a></li>
 
 </ul>
 
