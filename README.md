@@ -77,10 +77,10 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 <li><a href="https://github.com/Pranita-Redekar/Sales-Performance-Dashboard-PowerBI">Sales Performance Dashboard</a></li>
 </ul>
 
-<h3>🗄 SQL Projects</h3>
+<h3>🗄 Python Projects</h3>
 <ul>
-<li><a href="YOUR_SQL_PROJECT_LINK">SQL Data Analysis Project</a></li>
-<li><a href="YOUR_SQL_PROJECT_LINK">SQL Business Query Project</a></li>
+<li><a href="YOUR_SQL_PROJECT_LINK">Exploratory Data Analysis Project</a></li>
+
 </ul>
 
 <hr>
