@@ -80,6 +80,7 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 <h3>🗄 Python Projects</h3>
 <ul>
 <li><a href="https://github.com/Pranita-Redekar/Exploratory-Data-Analysis-Python">Exploratory Data Analysis Project</a></li>
+<li><a href="https://github.com/Pranita-Redekar/Customer-Churn-Analysis-Python">Customer Churn Analysis</a></li>
 
 </ul>
 
