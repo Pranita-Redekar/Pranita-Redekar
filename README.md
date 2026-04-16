@@ -77,6 +77,12 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 <li><a href="https://github.com/Pranita-Redekar/Sales-Performance-Dashboard-PowerBI">Sales Performance Dashboard</a></li>
 </ul>
 
+<h3>🛢 SQL Projects</h3>
+<ul>
+<li><a href="https://github.com/Pranita-Redekar/Online-Book-Store-SQL">Online Book Store</a></li>
+<li><a href="https://github.com/Pranita-Redekar/Customer-Churn-Analysis-Python">Customer Churn Analysis</a></li>
+</ul>
+
 <h3>🗄 Python Projects</h3>
 <ul>
 <li><a href="https://github.com/Pranita-Redekar/Exploratory-Data-Analysis-Python">Exploratory Data Analysis Project</a></li>
