@@ -80,7 +80,9 @@ Excel | Power BI | SQL | Python | MySQL | GitHub
 <h3>🛢 SQL Projects</h3>
 <ul>
 <li><a href="https://github.com/Pranita-Redekar/Online-Book-Store-SQL">Online Book Store</a></li>
-<li><a href="https://github.com/Pranita-Redekar/Customer-Churn-Analysis-Python">Customer Churn Analysis</a></li>
+<li><a href="https://github.com/Pranita-Redekar/Pizza-Sales-Analysis-SQL">Pizza Sales Analysis</a></li>
+<li><a href="https://github.com/Pranita-Redekar/Zepto-SQL-Data-Analysis">Zepto SQL Data Analysis</a></li>
+<li><a href="">Swiggy Sales Analysis</a></li>
 </ul>
 
 <h3>🗄 Python Projects</h3>
