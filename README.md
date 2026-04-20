@@ -37,24 +37,16 @@ Currently, I am developing my skills in Excel, Power BI, SQL, and Python for Dat
 <h2>⚙️ Tools & Technologies</h2>
 
 <p align="center">
-
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50">
-
 <img src="https://img.icons8.com/color/96/power-bi.png" width="50">
-
 <img src="https://img.icons8.com/fluency/96/database.png" width="50">
-
 <img src="https://img.icons8.com/color/96/python.png" width="50">
-
-<img src="https://img.icons8.com/color/96/mysql-logo.png" width="50">
-
+<img src="https://img.icons8.com/color/96/postgreesql.png" width="50">
 <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" width="50">
-
-
 </p>
 
 <p align="center">
-Excel | Power BI | SQL | Python | MySQL | GitHub
+Excel | Power BI | SQL | Python | PostgreSQL | GitHub
 </p>
 
 <hr>
