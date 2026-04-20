@@ -15,8 +15,7 @@ Currently, I am developing my skills in Excel, Power BI, SQL, and Python for Dat
 
 <ul>
 <li>📊 Interested in Data Analysis and Visualization</li>
-<li>📈 Skilled in Excel, Power BI, SQL</li>
-<li>🐍 Learning Python for Data Analytics</li>
+<li>📈 Skilled in Excel, Power BI, SQL ,Python</li>
 <li>🚀 Building Data Analytics Projects</li>
 </ul>
 
