@@ -81,8 +81,15 @@ Excel | Power BI | SQL | Python | PostgreSQL | GitHub
 <ul>
 <li><a href="https://github.com/Pranita-Redekar/Exploratory-Data-Analysis-Python">Exploratory Data Analysis Project</a></li>
 <li><a href="https://github.com/Pranita-Redekar/Customer-Churn-Analysis-Python">Customer Churn Analysis</a></li>
+</ul>
+
+<h3>🚀 End-to-End Data Analytics Projects</h3>
+<ul>
+<li><a href="https://github.com/Pranita-Redekar/Customer-Behavior-Analysis">Customer Behavior Analysis</a></li>
+<li><a href=""></a></li>
 
 </ul>
+
 
 <hr>
 
