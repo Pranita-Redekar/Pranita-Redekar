@@ -21,20 +21,6 @@ Currently, I am developing my skills in Excel, Power BI, SQL, and Python for Dat
 
 <hr>
 
-<h2>🛠 Skills</h2>
-
-<ul>
-<li>Microsoft Excel</li>
-<li>Power BI</li>
-<li>SQL</li>
-<li>Python</li>
-<li>Tableau</li>
-<li>Data Visualization</li>
-<li>Data Cleaning</li>
-</ul>
-
-<hr>
-
 <h2>⚙️ Tools & Technologies</h2>
 
 <p align="center">
@@ -43,13 +29,13 @@ Currently, I am developing my skills in Excel, Power BI, SQL, and Python for Dat
 <img src="https://img.icons8.com/fluency/96/database.png" width="50">
 <img src="https://img.icons8.com/color/96/python.png" width="50">
 <img src="https://img.icons8.com/color/96/postgreesql.png" width="50">
+<img src="https://img.icons8.com/color/96/tableau-software.png" width="50">
 <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" width="50">
 </p>
 
 <p align="center">
-Excel | Power BI | SQL | Python | PostgreSQL | GitHub
+Excel | Power BI | SQL | Python | PostgreSQL | Tableau | GitHub
 </p>
-
 <hr>
 
 <h2>📂 My Projects</h2>
