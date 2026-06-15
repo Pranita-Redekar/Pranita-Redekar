@@ -28,6 +28,7 @@ Currently, I am developing my skills in Excel, Power BI, SQL, and Python for Dat
 <li>Power BI</li>
 <li>SQL</li>
 <li>Python</li>
+<li>Tableau</li>
 <li>Data Visualization</li>
 <li>Data Cleaning</li>
 </ul>
@@ -67,6 +68,11 @@ Excel | Power BI | SQL | Python | PostgreSQL | GitHub
 <li><a href="https://github.com/Pranita-Redekar/Mobile-Sales-Dashboard">Mobile Sales Dashboard</a></li>
 <li><a href="https://github.com/Pranita-Redekar/Samsung-Supply-Chain-Project-Power-BI">Samsung Supply Chain Dashboard</a></li>
 <li><a href="https://github.com/Pranita-Redekar/Sales-Performance-Dashboard-PowerBI">Sales Performance Dashboard</a></li>
+</ul>
+
+<h3>📈 Tableau Projects</h3>
+<ul>
+<li><a href="https://github.com/Pranita-Redekar/HR-Analytics-Dashboard-Tableau">HR Analytics Dashboard</a></li>
 </ul>
 
 <h3>🛢 SQL Projects</h3>
