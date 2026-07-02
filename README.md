@@ -78,7 +78,7 @@ Excel | Power BI | SQL | Python | PostgreSQL | Tableau | GitHub
 <h3>🚀 End-to-End Data Analytics Projects</h3>
 <ul>
 <li><a href="https://github.com/Pranita-Redekar/Customer-Behavior-Analysis">Customer Behavior Analysis</a></li>
-<li><a href=""></a></li>
+<li><a href="https://github.com/Pranita-Redekar/Pizza-Sales-Analysis-Power-BI-and-SQL">Pizza Sale Analysis using SQL & Power BI</a></li>
 
 </ul>
 
